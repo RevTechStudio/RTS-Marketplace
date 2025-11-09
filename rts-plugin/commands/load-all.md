@@ -1,8 +1,9 @@
 ---
 description: 全ドキュメントの読み込み
+allowed-tools: Bash, Glob, Grep, LS, Read, Write, Edit, MultiEdit, Update, WebSearch, WebFetch
 ---
 
-# Load Init
+# Load All
 
 次のドキュメントを読み込む:
 
