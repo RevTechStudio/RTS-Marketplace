@@ -1,0 +1,8 @@
+{
+    "name": "rts-plugin",
+        "description": "RevTechStudio plugin",
+        "version": "0.1.0",
+        "author": {
+        "name": "RevTechStudio"
+    }
+}

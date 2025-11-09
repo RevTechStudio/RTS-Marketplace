@@ -1,0 +1,13 @@
+{
+    "name": "rts-marketplace",
+    "owner": {
+        "name": "RevTechStudio"
+    },
+    "plugins": [
+        {
+            "name": "rts-plugin",
+            "source": "./rts-plugin",
+            "description": "RevTechStudio plugin"
+        }
+    ]
+}
