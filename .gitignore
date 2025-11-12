@@ -1,2 +1,5 @@
 # Markdownlint CLI 2 configuration file
 .markdownlint-cli2.jsonc
+
+# Memo
+.memo
