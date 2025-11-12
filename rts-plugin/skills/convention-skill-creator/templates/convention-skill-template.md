@@ -1,6 +1,6 @@
 ---
-name: [スキル名（ケバブケース）]
-description: [スキル説明]
+name: [名前]
+description: [説明]
 allowed-tools: [使用するツール]
 ---
 # [スキル名]

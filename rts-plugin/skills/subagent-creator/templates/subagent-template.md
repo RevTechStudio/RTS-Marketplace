@@ -1,6 +1,6 @@
 ---
-name: [エージェント名]
-description: [エージェントの概要説明]
+name: [名前]
+description: [説明]
 tools: [使用可能な外部ツール]
 model: inherit
 color: [表示色]
